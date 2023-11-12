@@ -1,2 +1,2 @@
-# This repo is store my practice for codingTest
-### All quetions are from Programmers
+# This repo is for my practices for codingTests
+### All questions are from Programmers
